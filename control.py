@@ -1,4 +1,6 @@
 # variables
+
+#change
 capital = 1000000
 ganancias = 0
 gastos = 0
